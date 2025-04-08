@@ -38,17 +38,10 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mesrobyan77/mesrobyan77/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ### 🙌 Let's Connect!
 
-- 📄 [Download my CV](#) ('./Khachik_CV.pdf')
 - 📬 Email: *khachik.mesrobyan@gmail.com*
 
 ---
