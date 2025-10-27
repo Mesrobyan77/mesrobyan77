@@ -49,7 +49,7 @@ I’m always exploring animation, design systems, and scalable backend architect
 
 ## 🧮 Most Used Languages
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesrobyan77&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true" height="160" />
 </p>
 
@@ -57,7 +57,7 @@ I’m always exploring animation, design systems, and scalable backend architect
 
 ## 🏆 Top Contributed Repositories
 
-<p align="center">
+<p align="start">
   <img src="https://github-contributor-stats.vercel.app/api?username=mesrobyan77&limit=5&theme=react&combine_all_yearly_contributions=true" height="160" />
 </p>
 
