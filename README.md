@@ -1,49 +1,70 @@
-<h1 align="center">Hi there 👋, I'm Khachik</h1>
-<h3 align="center">🚀 Full-Stack Developer | JavaScript | React | Node.js</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Khachik%20Mesrobyan&fontSize=45&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Full-Stack%20Developer%20|%20React%20|%20Node.js%20|%20JavaScript&descSize=24&descAlignY=85&section=header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vahem27&label=Profile%20views&color=0e75b6&style=flat" alt="vahem27" />
-</p>
+I'm **Khachik Mesrobyan**, a passionate **Full-Stack Developer** who enjoys creating elegant and performant web applications using modern technologies like **React**, **Node.js**, and **TypeScript**.  
+I’m always exploring animation, design systems, and scalable backend architectures.  
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
-</p>
+💡 *“Turning ideas into beautiful code.”*
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="Sequelize" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 📬 Connect with Me
+
+[![Mail Badge](https://img.shields.io/badge/-khachik.mesrobyan@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:khachik.mesrobyan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Khachik%20Mesrobyan-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khachik-mesrobyan-b78588359/)
+[![GitHub Badge](https://img.shields.io/badge/-mesrobyan77-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/mesrobyan77)
+<!-- [![Discord Badge](https://img.shields.io/badge/-Mesrobyan-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white)](https://discord.com/users/) -->
+[![](https://komarev.com/ghpvc/?username=mesrobyan77&color=blue&label=Profile%20Views)](https://github.com/mesrobyan77)
+[![](https://img.shields.io/github/followers/mesrobyan77?label=GitHub%20Followers)](https://github.com/mesrobyan77)
 
 ---
 
-### 📊 GitHub Stats
+### 📄 Download My CV
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mesrobyan77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesrobyan77&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <a href="./Khachik_CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-3a8296?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
 </p>
 
 ---
 
+## 🧠 Skills
 
-
-### 🙌 Let's Connect!
-
-- 📬 Email: *khachik.mesrobyan@gmail.com*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass,materialui,git,nodejs,express,sequelize,mongodb,mysql,postgres,figma,linux,github&theme=dark" />
+</p>
 
 ---
 
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mesrobyan77&theme=react&show_icons=true&hide_border=false" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mesrobyan77&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB" height="160" />
+</p>
+
+---
+
+## 🧮 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesrobyan77&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true" height="160" />
+</p>
+
+---
+
+## 🏆 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mesrobyan77&limit=5&theme=react&combine_all_yearly_contributions=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is where creativity meets logic.” ✨</i>
+</p>
+
+---
