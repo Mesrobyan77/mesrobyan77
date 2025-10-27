@@ -22,7 +22,7 @@ I’m always exploring animation, design systems, and scalable backend architect
 
 ### 📄 Download My CV
 
-<p align="center">
+<p align="start">
   <a href="./Khachik_CV.pdf" download>
     <img src="https://img.shields.io/badge/Download%20CV-3a8296?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
