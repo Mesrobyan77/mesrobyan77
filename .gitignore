@@ -1,0 +1,4 @@
+.venv/
+source-photo.*
+__pycache__/
+source-prepped.*
