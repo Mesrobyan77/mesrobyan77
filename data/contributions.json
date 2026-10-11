@@ -1,8 +1,8 @@
 {
  "username": "mesrobyan77",
- "total": 89,
- "current_streak": 3,
- "longest_streak": 3,
+ "total": 90,
+ "current_streak": 4,
+ "longest_streak": 4,
  "best_day": {
   "date": "2025-10-25",
   "count": 11,
@@ -21,44 +21,9 @@
   "2026-07": 0,
   "2026-08": 6,
   "2026-09": 8,
-  "2026-10": 5
+  "2026-10": 6
  },
  "days": [
-  {
-   "date": "2025-10-05",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-06",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-07",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-08",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-09",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-10",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-11",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-10-12",
    "count": 0,
@@ -1876,6 +1841,11 @@
   },
   {
    "date": "2026-10-10",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-10-11",
    "count": 0,
    "level": 0
   }
