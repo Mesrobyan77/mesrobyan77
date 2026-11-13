@@ -1,8 +1,8 @@
 {
  "username": "mesrobyan77",
- "total": 102,
- "current_streak": 36,
- "longest_streak": 36,
+ "total": 103,
+ "current_streak": 37,
+ "longest_streak": 37,
  "best_day": {
   "date": "2026-02-09",
   "count": 11,
@@ -21,7 +21,7 @@
   "2026-08": 6,
   "2026-09": 8,
   "2026-10": 30,
-  "2026-11": 12
+  "2026-11": 13
  },
  "days": [
   {
@@ -1866,6 +1866,11 @@
   },
   {
    "date": "2026-11-12",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-13",
    "count": 0,
    "level": 0
   }
